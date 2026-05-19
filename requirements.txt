@@ -1,0 +1,40 @@
+# Web App
+streamlit
+
+# Environment Variables
+python-dotenv
+
+# Mistral AI
+mistralai
+langchain-mistralai
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# PDF Processing
+pypdf
+pdfplumber
+
+# Embeddings + Vector Store
+faiss-cpu
+
+# Tokenization
+tiktoken
+
+# Document Loading & Processing
+unstructured
+
+# Optional OCR Support
+pytesseract
+Pillow
+
+# Utilities
+numpy
+pandas
+
+# API Requests
+requests
+httpx
