@@ -25,7 +25,7 @@ This system allows users to upload PDF documents and ask questions based on the 
 - LangChain
 - Hugging Face Embeddings
 - Mistral AI
-- FAISS / Chroma Vector Store
+- Chroma Vector Store
 - Streamlit
 
 ---
