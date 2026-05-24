@@ -146,7 +146,6 @@ This project helped in understanding:
 - LLM Integration
 - LangChain Workflows
 - Vector Databases
-- Context-Aware AI Systems
 
 ---
 
